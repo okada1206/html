@@ -65,11 +65,15 @@ main{
     .step-box{
         float: none;
         margin: 0 auto;
+        margin-bottom: 30px;
+        width: 90%;
         }
     .step-box:last-child{
        margin: 0 auto;
        }
-    main{
-       width: 90%;
-       }
+
+     main{
+       max-width: 768px;
+       margin: 50px auto;
+    }
 }
