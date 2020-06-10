@@ -65,8 +65,8 @@ main{
     .step-box{
         float: none;
         margin: 0 auto;
-        margin-bottom: 30px;
-        width: 90%;
+        margin-bottom: 20px;
+        width: 100%;
         }
     .step-box:last-child{
        margin: 0 auto;
